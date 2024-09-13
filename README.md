@@ -1,4 +1,5 @@
 # next-planning-suite
+
 NextJS project for planning related tools. First project will be planning poker.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
